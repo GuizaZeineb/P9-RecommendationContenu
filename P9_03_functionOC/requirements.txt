@@ -1,0 +1,18 @@
+# Do not include azure-functions-worker as it may conflict with the Azure Functions platform
+
+#Why doesn't gcc compile for Python packages inside virtual environment?
+#azure-functions==1.8.0
+#numpy==1.21.5
+#python-lsp-jsonrpc==1.0.0
+
+
+
+azure-functions
+numpy
+implicit
+numpy
+pandas
+
+
+
+
